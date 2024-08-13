@@ -25,7 +25,7 @@ Based on your responses, MedBuddy will provide a specific diagnosis.
 You'll receive detailed recommendations for medications to manage your condition.
 
 
-####Example
+#### Example
 User:
 I've been feeling a sharp pain in my lower abdomen for the past two days. It's worse when I move, and I've also had a slight fever.
 
